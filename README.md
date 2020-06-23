@@ -2,14 +2,16 @@
 Demo: localhost
 ## Table of Content
 
- - Video-01-Intro
- - Video-02-Install-VSCode-Chrome
- - Video-03-Website-Template
- - Video-04-Product-List
- - Video-05-Sidebar
+ - Part 01 Intro
+ - Part 02 Install VSCode-Chrome
+ - Part 03 Website Template
+ - Part 04 Product List
+ - Part 05 Sidebar
+ - Part 06 Create React App
+ - Part 07 Render Products (JSX)
+ - Part 08 Product Details (React Router)
 
-
-## Video-06- Create React App
+## Part-06- Create React App
     We use React library to build the UI elements. To use React write the command 
     "npx create-react-app frontend" (frontend is name of folder)
 
