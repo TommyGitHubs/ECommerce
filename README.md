@@ -29,7 +29,9 @@ When the user clicks on a product there should a page to show details about that
 ### Knowledged
 #### About React Router
 React Router is a collection of **navigational components** that compose declaratively with your application. Whether you want to have **bookmarkable URLs** for your web app or a composable way to navigate in **React Native**, React Router works wherever React is rendering.
-![alt text](images/Part8-ReactRouter.jpg)
+
+<img src="image/Part8-ReactRouter.jpg">
+
 
 In this part I learn about HTML Links file, ul and li element:
 #### Links
@@ -40,6 +42,6 @@ We have some method to get file in folder in index.html (code file)[2][3]. Examp
  - "../picture.jpg": the file path points to **a file in the images folder located in the folder one level above the current folder**
 
 Reference: 
- [1] https://reacttraining.com/react-router/web/guides/quick-start.
- [2] https://bom.to/bhXbWd.
- [3] https://www.w3schools.com/html/html_filepaths.asp.
+ [1]: https://reacttraining.com/react-router/web/guides/quick-start "Quick Start"
+ [2]: https://bom.to/bhXbWd "VN Forums"
+ [3]: https://www.w3schools.com/html/html_filepaths.asp "W3schools"
