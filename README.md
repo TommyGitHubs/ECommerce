@@ -27,7 +27,7 @@ Basically, by using JSX you can write concise HTML/XML-like structures (e.g., DO
 ## Part 8: Product Details (React Router)
 When the user clicks on a product there should a page to show details about that product. This lesson is all about making an attractive details page.
 ### Knowledged
-#### About React Router
+#### About React Router [1]
 React Router is a collection of **navigational components** that compose declaratively with your application. Whether you want to have **bookmarkable URLs** for your web app or a composable way to navigate in **React Native**, React Router works wherever React is rendering.
 
 <img src="image/Part8-ReactRouter.jpg">
