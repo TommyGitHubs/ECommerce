@@ -2,5 +2,6 @@
     "cSpell.words": [
         "Amazona"
     ],
-    "liveServer.settings.multiRootWorkspaceName": "ECommerce"
+    "liveServer.settings.multiRootWorkspaceName": "ECommerce",
+    "git.ignoreLimitWarning": true
 }
