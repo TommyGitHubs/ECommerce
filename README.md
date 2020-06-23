@@ -8,4 +8,5 @@ Demo: localhost
  - Video-04-Product-List
  - Video-05-Sidebar
  ### Video-06- Create React App
-    We use React library to build the UI elements. To use React write the command "npx create-react-app frontend" (frontend is name of folder)
+    We use React library to build the UI elements. To use React write the command 
+    "npx create-react-app frontend" (frontend is name of folder)
