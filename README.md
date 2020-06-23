@@ -6,3 +6,4 @@ Demo: localhost
  - Video-02-Install-VSCode-Chrome
  - Video-03-Website-Template
  - Video-04-Product-List
+ - Video-05-Sidebar
