@@ -35,7 +35,7 @@ React Router is a collection of **navigational components** that compose declara
 
 In this part I learn about HTML Links file, ul and li element:
 #### Links
-We have some method to get file in folder in index.html (code file)[2][3]. Example:
+We have some method to get file in folder in index.html (code file)[2] [3]. Example:
  - "picture.jpg": **a file in the current folder**
  - "images/picture.jpg": the file path points to **a file in the images folder located in the current folder**
  - "/images/picture.jpg": the file path points to a file in **the images folder located at the root of the current web**
