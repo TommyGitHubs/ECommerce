@@ -42,6 +42,6 @@ We have some method to get file in folder in index.html (code file)[2][3]. Examp
  - "../picture.jpg": the file path points to **a file in the images folder located in the folder one level above the current folder**
 
 Reference: 
- [1](https://reacttraining.com/react-router/web/guides/quick-start) "Quick Start"
- [2]: https://bom.to/bhXbWd "VN Forums"
- [3]: https://www.w3schools.com/html/html_filepaths.asp "W3schools"
+ [1]: https://reacttraining.com/react-router/web/guides/quick-start "Quick Start"  
+ [2]: https://bom.to/bhXbWd "VN Forums"  
+ [3]: https://www.w3schools.com/html/html_filepaths.asp "W3schools"  
