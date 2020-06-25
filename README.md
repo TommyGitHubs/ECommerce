@@ -1,7 +1,7 @@
 # Amazona: An ECommerce Website like Amazon.com
 ## Part 9: Create Node - Express Server
 Demo: http://localhost:3000/api/products
-<img src="image/localhost3000.jpg">
+<img src="./image/localhost3000.jpg">
 
 ### Table of Content
 
