@@ -1,6 +1,8 @@
 # Amazona: An ECommerce Website like Amazon.com
 ## Part 9: Create Node - Express Server
 Demo: http://localhost:3000/api/products
+<img src="image/localhost3000.jpg">
+
 ### Table of Content
 
  - Part 01 Intro
@@ -13,7 +15,7 @@ Demo: http://localhost:3000/api/products
  - Part 08 Product Details (React Router)
  - Part 09 Create Node - Express Server
 
-In this part, we will show data in data.js. Use NodeJS.
+#### In this part, we will show data in data.js. Use NodeJS.
 Note: Please install express, babel (Express just available for ES5) in terminal before use:
 1. Express: npm install express
 2. Babel: npm install @babel/cli @babel/core @babel/node @babel/present-env nodemon --save-dev
