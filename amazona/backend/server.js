@@ -1,10 +1,18 @@
-import express from 'express';
-import data from './data';
+const express = require('express');
+const { data }  = require('./data');
+
+
+const PORT = process.env.PORT || 5000
+
+const http = require('http')
 
 const app = express();
+
 
 app.get("/api/products", (req, res) =>{
     res.send(data.products);
 });
 
-app.listen(3000, () => {console.log("Server started at http://localhost:3000")});
+const server = http.createServer(app)
+
+server.listen(PORT, () => {console.log(`Server started at localhost:${PORT}`)});
