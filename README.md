@@ -16,4 +16,4 @@ Demo: http://localhost:3000/api/products
 
 In this part, we fetch server data. Use React Hooks
   
-Reference: *https://viblo.asia/p/cung-tim-hieu-ve-cac-hook-trong-react-hooks-Ljy5VYgjlras*
+Reference: *https://viblo.asia/p/cung-tim-hieu-ve-cac-hook-trong-react-hooks-Ljy5VYgjlra*
