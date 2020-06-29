@@ -1,5 +1,5 @@
 # Amazona: An ECommerce Website like Amazon.com
-## Part 9: Create Node - Express Server
+## Part 10: Create Node - Express Server
 Demo: http://localhost:3000/api/products
 ### Table of Content
 
@@ -12,10 +12,8 @@ Demo: http://localhost:3000/api/products
  - Part 07 Render Products (JSX)
  - Part 08 Product Details (React Router)
  - Part 09 Create Node - Express Server
+ - Part 10 Fetch Server Data - React Hooks
 
-In this part, we will show data in data.js. Use NodeJS.
-Note: Please install express, babel (Express just available for ES5) in terminal before use:
-1. Express: npm install express
-2. Babel: npm install @babel/cli @babel/core @babel/node @babel/present-env nodemon --save-dev
+In this part, we fetch server data. Use React Hooks
   
-Reference: *https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=5453s*
+Reference: *https://viblo.asia/p/cung-tim-hieu-ve-cac-hook-trong-react-hooks-Ljy5VYgjlras*
